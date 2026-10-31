@@ -15,7 +15,7 @@ Skill for ensuring correct, natural, and consistent Spanish (Spain) across writt
 Place `SKILL.md` in:
 
 ```text
-.agents/skills/spanish-es-localization/SKILL.md
+.agents/skills/spanish-language-auditor/SKILL.md
 ```
 
 ### Core principle
